@@ -3,8 +3,8 @@
 
 (function(exports) {
   
-  function Note(some_text) {
-    this._text = some_text;
+  function Note(someText) {
+    this._text = someText;
   };
   
   Note.prototype.showText = function() {
