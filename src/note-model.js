@@ -3,8 +3,8 @@
 
 (function(exports) {
   
-  function Note() {
-    this._text = "My favourite language is JavaScript.";
+  function Note(some_text) {
+    this._text = some_text;
   };
   
   Note.prototype.showText = function() {
@@ -13,5 +13,3 @@
 
   exports.Note = Note;
 })(this);
-
-
