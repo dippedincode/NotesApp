@@ -1,0 +1,22 @@
+{
+  "name": "notesapp",
+  "version": "1.0.0",
+  "description": "```                                                     .                                                   .' \\                                                 .'    .                                               .'  ...'.`                                      ___.-. .'  ...'.'                                _.---'   `..'  ...'.'                         __.---'         .'  ...'.'                     .--'              .'  ...'.'.                    /`               .'  ...'.'   `.                   /               .'  ...'.'       `.                  /              .'  ...'.'           `-.                 /             .'  ...'.'                `.                /       ` _.-.'  ...'                      `-._____.-'               /         / .'  ...'              /`        /.'. ...'             /         .'  .`.'   \\            /        .'  ...'  |   \\ /           /\\      .'  ...'     \\   |    Saturday 1 September 1666.           / /    .'  ...' /      \\  |      Up and at the office all the morning,         /_/   .'  ...'  /  |    |  |'     and then dined at home.         `._..' .-------.__________.'           .' .'----         .'   |     |      |       .'  ....     |    |     .'  ...'| \\ __.'     |                                        ___    / \\...'   \\_`------------------._____                  ___.---'   /  .-'            |    | \\__/         `--.__        _.-'  /.-'                \\__/                     `------' ' ``` This app will allow you to write and view notes in a web app. It has been test driven developed in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dippedincode/NotesApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dippedincode/NotesApp/issues"
+  },
+  "homepage": "https://github.com/dippedincode/NotesApp#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}

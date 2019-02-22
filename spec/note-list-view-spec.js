@@ -11,6 +11,7 @@ function testContentContainsListInHTML() {
   list1.createNoteAndAddToList("Without a love of my own");
   assert.isTrue(listview1.showNotesInListInHTML(list1) === 
     "<div><ul><li>Blue Moon</li><li>You saw me standing alone</li><li>Without a dream in my heart</li><li>Without a love of my own</li></ul></div>");
+ 
   console.log("testContentContainsListInHTML did run");
 }
 testContentContainsListInHTML();

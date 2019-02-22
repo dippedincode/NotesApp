@@ -11,8 +11,6 @@
     var listItems = "";
     for (var i=0; i < list._notelist.length; i++) {
       listItems += "<li>" + list._notelist[i]._text + "</li>";
-      console.log("listItems:");
-      console.log(listItems);
     }
     this._notelistview = "<div><ul>" + listItems + "</ul></div>";
     return this._notelistview;
